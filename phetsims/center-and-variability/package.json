@@ -1,0 +1,74 @@
+{
+  "name": "center-and-variability",
+  "version": "1.1.0-dev.16",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/center-and-variability.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3"
+  },
+  "phet": {
+    "requirejsNamespace": "CENTER_AND_VARIABILITY",
+    "simulation": true,
+    "runnable": true,
+    "supportedBrands": [
+      "phet",
+      "phet-io",
+      "adapted-from-phet"
+    ],
+    "phetLibs": [
+      "bamboo",
+      "twixt",
+      "vegas",
+      "soccer-common"
+    ],
+    "supportsOutputJS": true,
+    "simFeatures": {
+      "supportsInteractiveDescription": true,
+      "supportsDynamicLocale": true,
+      "supportsSound": true
+    },
+    "screenNameKeys": [
+      "CENTER_AND_VARIABILITY/screen.median",
+      "CENTER_AND_VARIABILITY/screen.meanAndMedian",
+      "CENTER_AND_VARIABILITY/screen.variability"
+    ],
+    "published": true,
+    "phet-io": {
+      "compareDesignedAPIChanges": true
+    }
+  },
+  "eslintConfig": {
+    "extends": "../chipper/eslint/sim_eslintrc.js",
+    "overrides": [
+      {
+        "files": [
+          "**/*.ts"
+        ],
+        "rules": {
+          "@typescript-eslint/no-explicit-any": "error",
+          "@typescript-eslint/ban-ts-comment": [
+            "error",
+            {
+              "ts-expect-error": true,
+              "ts-ignore": true,
+              "ts-check": true,
+              "ts-nocheck": true
+            }
+          ],
+          "no-object-spread-on-non-literals": "error",
+          "additional-bad-text": [
+            "error",
+            {
+              "forbiddenTextObjects": [
+                "dispose"
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "unit-rates",
+  "version": "1.1.0-dev.5",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/unit-rates.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3"
+  },
+  "phet": {
+    "requirejsNamespace": "UNIT_RATES",
+    "phetLibs": [
+      "twixt"
+    ],
+    "runnable": true,
+    "supportedBrands": [
+      "phet",
+      "adapted-from-phet"
+    ],
+    "simFeatures": {
+      "colorProfiles": [
+        "default"
+      ]
+    },
+    "simulation": true,
+    "supportsOutputJS": true,
+    "published": true,
+    "screenNameKeys": [
+      "UNIT_RATES/screen.shopping",
+      "UNIT_RATES/screen.shoppingLab",
+      "UNIT_RATES/screen.racingLab"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "../chipper/eslint/sim_eslintrc.js",
+    "overrides": [
+      {
+        "files": [
+          "**/*.ts"
+        ],
+        "rules": {
+          "@typescript-eslint/no-explicit-any": "error",
+          "@typescript-eslint/ban-ts-comment": [
+            "error",
+            {
+              "ts-expect-error": "allow-with-description",
+              "ts-ignore": true,
+              "ts-check": true,
+              "ts-nocheck": true
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

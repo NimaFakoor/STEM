@@ -1,0 +1,1393 @@
+{
+  "ca": {
+    "measure.clearWaves": {
+      "value": "Esborrar ones"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "ATM"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Reiniciar"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Densitat de l'aire a la caixa"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Posició de la paret"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Angle de la paret"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Mode de so"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Continu"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Polsant"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Disparar pulsació"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Controls d'àudio"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Àudio de l'oient"
+    },
+    "frequency": {
+      "value": "Freqüència"
+    },
+    "amplitude": {
+      "value": "Amplitud"
+    },
+    "sound-waves.title": {
+      "value": "Ones sonores"
+    },
+    "screen.singleSource": {
+      "value": "Introducció"
+    },
+    "screen.measure": {
+      "value": "Mesurar"
+    },
+    "screen.twoSource": {
+      "value": "Dues fonts"
+    },
+    "screen.reflection": {
+      "value": "Reflexió"
+    },
+    "screen.airPressure": {
+      "value": "Pressió de l'aire"
+    }
+  },
+  "da": {
+    "measure.clearWaves": {
+      "value": "Nulstil bølger"
+    },
+    "meters": {
+      "value": "m."
+    },
+    "atm": {
+      "value": "ATM"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Nulstil"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Lufttryk i kasse"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Væggens position"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Væggens vinkel"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Lydtype"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Vedblivende"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Puls"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Afskyd puls"
+    },
+    "frequency": {
+      "value": "Frekvens"
+    },
+    "amplitude": {
+      "value": "Amplitude"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Lydkontrol"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Brugerlyd"
+    },
+    "sound-waves.title": {
+      "value": "Lydbølger"
+    },
+    "screen.singleSource": {
+      "value": "Intro"
+    },
+    "screen.measure": {
+      "value": "Opmåling"
+    },
+    "screen.twoSource": {
+      "value": "To kilder"
+    },
+    "screen.reflection": {
+      "value": "Reflektion"
+    },
+    "screen.airPressure": {
+      "value": "Lufttryk"
+    }
+  },
+  "de": {
+    "measure.clearWaves": {
+      "value": "Wellen löschen"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "ATM"
+    },
+    "one": {
+      "value": "1,0"
+    },
+    "zero": {
+      "value": "0,0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Zurücksetzen"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Luftdichte in der Box"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Position der Wand"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Winkel der Wand"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Tonmode"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Kontinuierlich"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Puls"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Puls abfeuern"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Audio Kontrollen"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Hörer-Audio"
+    },
+    "frequency": {
+      "value": "Frequenz"
+    },
+    "amplitude": {
+      "value": "Amplitude"
+    },
+    "sound-waves.title": {
+      "value": "Schallwellen"
+    },
+    "screen.singleSource": {
+      "value": "Einführung"
+    },
+    "screen.measure": {
+      "value": "Messen"
+    },
+    "screen.twoSource": {
+      "value": "Zwei Quellen"
+    },
+    "screen.reflection": {
+      "value": "Reflexion"
+    },
+    "screen.airPressure": {
+      "value": "Luftdruck"
+    }
+  },
+  "el": {
+    "measure.clearWaves": {
+      "value": "Καθαρισμός κυμάτων"
+    },
+    "meters": {
+      "value": "μ."
+    },
+    "atm": {
+      "value": "ΑΤΜ"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Επαναφορά"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Πυκνότητα αέρα στο κουτί"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Θέση τοίχου"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Γωνία τοίχου"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Λειτουργία ήχου"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Συνεχής"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Παλλόμενος"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Έναρξη παλμών"
+    },
+    "frequency": {
+      "value": "Συχνότητα"
+    },
+    "amplitude": {
+      "value": "Εύρος"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Χειριστήρια ήχου"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Ήχος ακροατή"
+    },
+    "sound-waves.title": {
+      "value": "Κύματα ήχου"
+    },
+    "screen.singleSource": {
+      "value": "Εισαγωγή"
+    },
+    "screen.measure": {
+      "value": "Μέτρηση"
+    },
+    "screen.twoSource": {
+      "value": "Δύο πηγές"
+    },
+    "screen.reflection": {
+      "value": "Αντανάκλαση"
+    },
+    "screen.airPressure": {
+      "value": "Ατμοσφαιρική πίεση"
+    }
+  },
+  "es": {
+    "measure.clearWaves": {
+      "value": "Borrar Ondas"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "ATM"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Reiniciar"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Densidad del Aire en la Caja"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Posición de la Pared"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Ángulo de la Pared"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Modo de Sonido"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Continuo"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Pulsado"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Disparar Pulso"
+    },
+    "frequency": {
+      "value": "Frecuencia"
+    },
+    "amplitude": {
+      "value": "Amplitud"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Controles de Audio"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Audio del Oyente"
+    },
+    "sound-waves.title": {
+      "value": "Ondas Sonoras"
+    },
+    "screen.singleSource": {
+      "value": "Intro"
+    },
+    "screen.measure": {
+      "value": "Medir"
+    },
+    "screen.twoSource": {
+      "value": "Dos Fuentes"
+    },
+    "screen.reflection": {
+      "value": "Reflexión"
+    },
+    "screen.airPressure": {
+      "value": "Presión del Aire"
+    }
+  },
+  "fa": {
+    "measure.clearWaves": {
+      "value": "امواج را پاک کن"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "بازنشانی"
+    },
+    "airDensityControlPanel.title": {
+      "value": "چگالی هوای درون محفظه"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "محل دیواره"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "زاویه دیواره"
+    },
+    "soundModeControlPanel.title": {
+      "value": "نوع صدا"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "پیوسته"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "تپ"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "ارسال تپ"
+    },
+    "frequency": {
+      "value": "بسامد"
+    },
+    "amplitude": {
+      "value": "دامنه"
+    },
+    "audioControlPanel.title": {
+      "value": "کنترل های صدا"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "صدایی که به شنونده می رسد"
+    },
+    "sound-waves.title": {
+      "value": "امواج صوتی"
+    },
+    "screen.singleSource": {
+      "value": "مقدماتی"
+    },
+    "screen.measure": {
+      "value": "اندازه گیری"
+    },
+    "screen.twoSource": {
+      "value": "دو منبع"
+    },
+    "screen.reflection": {
+      "value": "بازتاب"
+    },
+    "screen.airPressure": {
+      "value": "فشار هوا"
+    }
+  },
+  "fr": {
+    "measure.clearWaves": {
+      "value": "Réinitialiser les vagues"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "ATM"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Réinitialiser"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Densité de l'air dans la boîte"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Position du mur"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Angle du mur"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Mode sonore"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Continu"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Impulsion"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Déclencher l'impulsion"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Contrôles audio"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Audio de l'auditeur"
+    },
+    "frequency": {
+      "value": "Fréquence"
+    },
+    "amplitude": {
+      "value": "Amplitude"
+    },
+    "sound-waves.title": {
+      "value": "Ondes sonores"
+    },
+    "screen.singleSource": {
+      "value": "Introduction"
+    },
+    "screen.measure": {
+      "value": "Mesure"
+    },
+    "screen.twoSource": {
+      "value": "Deux Sources"
+    },
+    "screen.reflection": {
+      "value": "Réflexion"
+    },
+    "screen.airPressure": {
+      "value": "Pression de l'air"
+    }
+  },
+  "gu": {
+    "measure.clearWaves": {
+      "value": "તરંગો સાફ કરો"
+    },
+    "meters": {
+      "value": "મીટર"
+    },
+    "atm": {
+      "value": "ATM"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "રીસેટ"
+    },
+    "airDensityControlPanel.title": {
+      "value": "બોક્સમાં હવાની ઘનતા"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "દીવાલની સ્થિતિ"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "દીવાલનો ખુણો"
+    },
+    "soundModeControlPanel.title": {
+      "value": "સાઉન્ડ મોડ"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "સતત / અચળ"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "પલ્સ"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "પલ્સ ફાયર કરો"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "ઓડિયો કંટ્રોલ્સ"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "સાંભળનારનો ઓડિયો"
+    },
+    "frequency": {
+      "value": "ફ્રિક્વન્સી"
+    },
+    "amplitude": {
+      "value": "એમ્પલિટયૂડ"
+    },
+    "sound-waves.title": {
+      "value": "અવાજના તરંગો"
+    },
+    "screen.singleSource": {
+      "value": "પરિચય"
+    },
+    "screen.measure": {
+      "value": "માપ"
+    },
+    "screen.twoSource": {
+      "value": "બે સ્ત્રોત"
+    },
+    "screen.reflection": {
+      "value": "પરાવર્તન"
+    },
+    "screen.airPressure": {
+      "value": "હવાનું દબાણ"
+    }
+  },
+  "hi": {
+    "measure.clearWaves": {
+      "value": "तरंग हटाएं"
+    },
+    "meters": {
+      "value": "मी0"
+    },
+    "atm": {
+      "value": "ATM"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "पुनः व्यवस्थित करें"
+    },
+    "airDensityControlPanel.title": {
+      "value": "बक्से में वायु का घनत्व"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "दीवार की स्थिति"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "दीवार का कोण"
+    },
+    "soundModeControlPanel.title": {
+      "value": "ध्वनि विधा"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "सतत्"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "पल्स"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "फायर पल्स"
+    },
+    "frequency": {
+      "value": "आवृत्ति"
+    },
+    "amplitude": {
+      "value": "आयाम"
+    },
+    "hzPattern": {
+      "value": "{{value}} हर्टज"
+    },
+    "audioControlPanel.title": {
+      "value": "ध्वनि नियंत्रक"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "श्रोता ध्वनि"
+    },
+    "sound-waves.title": {
+      "value": "ध्वनि तरंग"
+    },
+    "screen.singleSource": {
+      "value": "परिचय"
+    },
+    "screen.measure": {
+      "value": "माप"
+    },
+    "screen.twoSource": {
+      "value": "दो स्रोत"
+    },
+    "screen.reflection": {
+      "value": "परावर्तन"
+    },
+    "screen.airPressure": {
+      "value": "वायु दाब"
+    }
+  },
+  "hr": {
+    "measure.clearWaves": {
+      "value": "Izbriši valove"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "atm"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Reset"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Gustoća zraka u kutiji"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Položaj zida"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Kut zida"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Vrsta zvuka"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Stalni"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Pulsni"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Stvori puls"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Upravljanje zvukom"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Zvuk koji čuje slušatelj"
+    },
+    "frequency": {
+      "value": "Frekvencija"
+    },
+    "amplitude": {
+      "value": "Amplituda"
+    },
+    "sound-waves.title": {
+      "value": "Zvučni valovi"
+    },
+    "screen.singleSource": {
+      "value": "Uvod"
+    },
+    "screen.measure": {
+      "value": "Mjerenje"
+    },
+    "screen.twoSource": {
+      "value": "Dva izvora"
+    },
+    "screen.reflection": {
+      "value": "Refleksija"
+    },
+    "screen.airPressure": {
+      "value": "Tlak zraka"
+    }
+  },
+  "it": {
+    "measure.clearWaves": {
+      "value": "Cancella le onde"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "atm"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Ripristina"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Densità dell'aria nella scatola"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Posizione ostacolo"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Inclinazione ostacolo"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Tipologia suono"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Continuo"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Impulsi"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Genera impulso"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Controllo audio"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Attiva audio"
+    },
+    "frequency": {
+      "value": "Frequenza"
+    },
+    "amplitude": {
+      "value": "Ampiezza"
+    },
+    "sound-waves.title": {
+      "value": "Onde sonore"
+    },
+    "screen.singleSource": {
+      "value": "Introduzione"
+    },
+    "screen.measure": {
+      "value": "Misura"
+    },
+    "screen.twoSource": {
+      "value": "Due sorgenti"
+    },
+    "screen.reflection": {
+      "value": "Riflessione"
+    },
+    "screen.airPressure": {
+      "value": "Pressione dell'aria"
+    }
+  },
+  "pl": {
+    "measure.clearWaves": {
+      "value": "Wyczyść fale"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "atm"
+    },
+    "one": {
+      "value": "1,0"
+    },
+    "zero": {
+      "value": "0,0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Resetuj"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Gęstość powietrza w pudełku"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Położenie ściany"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Kąt ściany"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Tryb dźwięku"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Ciągły"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Impuls"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Wyślij impuls"
+    },
+    "frequency": {
+      "value": "Częstotliwość"
+    },
+    "amplitude": {
+      "value": "Amplituda"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Sterowanie dźwiękiem"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Dźwięk słuchacza"
+    },
+    "sound-waves.title": {
+      "value": "Fale dźwiękowe"
+    },
+    "screen.singleSource": {
+      "value": "Wstęp"
+    },
+    "screen.measure": {
+      "value": "Pomiar"
+    },
+    "screen.twoSource": {
+      "value": "Dwa źródła"
+    },
+    "screen.reflection": {
+      "value": "Odbicie"
+    },
+    "screen.airPressure": {
+      "value": "Ciśnienie powietrza"
+    }
+  },
+  "pt_BR": {
+    "measure.clearWaves": {
+      "value": "Limpar Ondas"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "atm"
+    },
+    "one": {
+      "value": "1,0"
+    },
+    "zero": {
+      "value": "0,0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Reiniciar"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Densidade do Ar na Caixa"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Posição da Parede"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Inclinação da Parede"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Modo do Som"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Contínuo"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Pulsante"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Disparar Pulso"
+    },
+    "frequency": {
+      "value": "Frequência"
+    },
+    "amplitude": {
+      "value": "Amplitude"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Controles de Áudio"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Áudio do Ouvinte"
+    },
+    "sound-waves.title": {
+      "value": "Ondas Sonoras"
+    },
+    "screen.singleSource": {
+      "value": "Intro"
+    },
+    "screen.measure": {
+      "value": "Medir"
+    },
+    "screen.twoSource": {
+      "value": "Duas Fontes"
+    },
+    "screen.reflection": {
+      "value": "Reflexão"
+    },
+    "screen.airPressure": {
+      "value": "Pressão do Ar"
+    }
+  },
+  "ro": {
+    "measure.clearWaves": {
+      "value": "Ștergere unde"
+    },
+    "meters": {
+      "value": "metri"
+    },
+    "atm": {
+      "value": "atm"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Resetare"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Densitatea aerului în cutie"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Poziția obstacolului"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Unghiul obstacolului"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Mod sunet"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Continuu"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Pulsuri"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Producere puls"
+    },
+    "frequency": {
+      "value": "Frecvență"
+    },
+    "amplitude": {
+      "value": "Amplitudine"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Control audio"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Ascultător"
+    },
+    "sound-waves.title": {
+      "value": "Unde sonore"
+    },
+    "screen.singleSource": {
+      "value": "Introducere"
+    },
+    "screen.measure": {
+      "value": "Măsoară"
+    },
+    "screen.twoSource": {
+      "value": "Două surse"
+    },
+    "screen.reflection": {
+      "value": "Reflexie"
+    },
+    "screen.airPressure": {
+      "value": "Presiunea aerului"
+    }
+  },
+  "sr": {
+    "measure.clearWaves": {
+      "value": "Обриши таласе"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "atm"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Обриши"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Густина ваздуха у кутији"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "положај зида"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "угао зида"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Звук"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "непрекидно"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "пулс"
+    },
+    "frequency": {
+      "value": "фреквенција"
+    },
+    "amplitude": {
+      "value": "амплитуда"
+    },
+    "audioControlPanel.title": {
+      "value": "контроле звука"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "слушај звук"
+    },
+    "sound-waves.title": {
+      "value": "Звучни таласи"
+    },
+    "screen.singleSource": {
+      "value": "Увод"
+    },
+    "screen.measure": {
+      "value": "Мерење"
+    },
+    "screen.twoSource": {
+      "value": "Два извора"
+    },
+    "screen.reflection": {
+      "value": "Одбијање"
+    },
+    "screen.airPressure": {
+      "value": "Ваздушни притисак"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "емитуј"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    }
+  },
+  "te": {
+    "measure.clearWaves": {
+      "value": "తరంగాల్ని తొలగించు"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "ATM"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "యథాస్థితికి"
+    },
+    "airDensityControlPanel.title": {
+      "value": "పేటికలో గాలి సాంద్రత"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "అవరోధ స్థానం"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "అవరోధ కోణం"
+    },
+    "soundModeControlPanel.title": {
+      "value": "ధ్వని రీతి"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "అవిచ్ఛిన్న రీతి"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "స్పందన రీతి"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "స్పందనను సృష్టించు"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "ధ్వని నియంత్రకాలు"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "శ్రోత ధ్వని గ్రహణం"
+    },
+    "frequency": {
+      "value": "పౌనఃపున్యం"
+    },
+    "amplitude": {
+      "value": "కంపన పరిమితి"
+    },
+    "sound-waves.title": {
+      "value": "ధ్వని తరంగాలు; అనువాదం: ఉడిత్యాల రమణ"
+    },
+    "screen.singleSource": {
+      "value": "పరిచయం"
+    },
+    "screen.measure": {
+      "value": "మాపనం"
+    },
+    "screen.twoSource": {
+      "value": "రెండు జనకాలు"
+    },
+    "screen.reflection": {
+      "value": "పరావర్తనం"
+    },
+    "screen.airPressure": {
+      "value": "గాలి పీడనం"
+    }
+  },
+  "uz": {
+    "measure.clearWaves": {
+      "value": "Aniq To‘lqinlar"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "ATM"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Qayta O‘rnatish"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Qutidagi Havo Zichligi"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Devorning Holati"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Devor Burchagi"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Ovoz Rejimi"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Davomiy"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Puls"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Yong‘in Pulsi"
+    },
+    "frequency": {
+      "value": "Chastotasi"
+    },
+    "amplitude": {
+      "value": "Amplituda"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Audio Boshqaruvlari"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Audio Tinglovchi"
+    },
+    "sound-waves.title": {
+      "value": "Ovoz To‘lqinlari"
+    },
+    "screen.singleSource": {
+      "value": "Kirish"
+    },
+    "screen.measure": {
+      "value": "O‘lchov"
+    },
+    "screen.twoSource": {
+      "value": "Ikki Manba"
+    },
+    "screen.reflection": {
+      "value": "Taqriz"
+    },
+    "screen.airPressure": {
+      "value": "Havo Bosimi"
+    }
+  },
+  "vi": {
+    "measure.clearWaves": {
+      "value": "Xoá sóng"
+    },
+    "meters": {
+      "value": "m"
+    },
+    "atm": {
+      "value": "ATM"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Reset"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Mật độ không khí trong hộp"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Vị trí tường"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Góc nghiêng của tường"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Kiểu âm"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Liên tục"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Xung"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Phát xung"
+    },
+    "frequency": {
+      "value": "Tần số"
+    },
+    "amplitude": {
+      "value": "Biên độ"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "audioControlPanel.title": {
+      "value": "Điều chỉnh âm"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Nghe âm thanh"
+    },
+    "sound-waves.title": {
+      "value": "Sóng âm"
+    },
+    "screen.singleSource": {
+      "value": "Phần giới thiệu"
+    },
+    "screen.measure": {
+      "value": "Đo đạc"
+    },
+    "screen.twoSource": {
+      "value": "Hai nguồn"
+    },
+    "screen.reflection": {
+      "value": "Phản xạ"
+    },
+    "screen.airPressure": {
+      "value": "Áp suất không  khí"
+    }
+  },
+  "en": {
+    "sound-waves.title": {
+      "value": "Sound Waves"
+    },
+    "screen.singleSource": {
+      "value": "Intro"
+    },
+    "screen.measure": {
+      "value": "Measure"
+    },
+    "measure.clearWaves": {
+      "value": "Clear Waves"
+    },
+    "screen.twoSource": {
+      "value": "Two Sources"
+    },
+    "screen.reflection": {
+      "value": "Reflection"
+    },
+    "atm": {
+      "value": "ATM"
+    },
+    "zero": {
+      "value": "0.0"
+    },
+    "one": {
+      "value": "1.0"
+    },
+    "hzPattern": {
+      "value": "{{value}} Hz"
+    },
+    "screen.airPressure": {
+      "value": "Air Pressure"
+    },
+    "audioControlPanel.title": {
+      "value": "Audio Controls"
+    },
+    "audioControlPanel.audioEnabled": {
+      "value": "Listener Audio"
+    },
+    "soundModeControlPanel.title": {
+      "value": "Sound Mode"
+    },
+    "soundModeControlPanel.continuous": {
+      "value": "Continuous"
+    },
+    "soundModeControlPanel.pulse": {
+      "value": "Pulse"
+    },
+    "soundModeControlPanel.firePulse": {
+      "value": "Fire Pulse"
+    },
+    "reflectionControlPanel.positionSlider": {
+      "value": "Wall Position"
+    },
+    "reflectionControlPanel.rotationSlider": {
+      "value": "Wall Angle"
+    },
+    "airDensityControlPanel.title": {
+      "value": "Air Density in Box"
+    },
+    "airDensityControlPanel.reset": {
+      "value": "Reset"
+    },
+    "amplitude": {
+      "value": "Amplitude"
+    },
+    "frequency": {
+      "value": "Frequency"
+    },
+    "meters": {
+      "value": "m"
+    }
+  }
+}

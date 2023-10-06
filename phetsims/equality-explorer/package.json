@@ -1,0 +1,67 @@
+{
+  "name": "equality-explorer",
+  "version": "1.2.0-dev.8",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phetsims/equality-explorer.git"
+  },
+  "devDependencies": {
+    "grunt": "~1.5.3"
+  },
+  "phet": {
+    "requirejsNamespace": "EQUALITY_EXPLORER",
+    "phetLibs": [
+      "twixt",
+      "vegas"
+    ],
+    "runnable": true,
+    "supportedBrands": [
+      "phet",
+      "phet-io",
+      "adapted-from-phet"
+    ],
+    "simFeatures": {
+      "supportsSound": true,
+      "supportsDynamicLocale": true,
+      "colorProfiles": [
+        "default"
+      ]
+    },
+    "simulation": true,
+    "phet-io": {
+      "validation": false
+    },
+    "supportsOutputJS": true,
+    "published": true,
+    "screenNameKeys": [
+      "EQUALITY_EXPLORER/screen.basics",
+      "EQUALITY_EXPLORER/screen.numbers",
+      "EQUALITY_EXPLORER/screen.variables",
+      "EQUALITY_EXPLORER/screen.operations",
+      "EQUALITY_EXPLORER/screen.solveIt"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "../chipper/eslint/sim_eslintrc.js",
+    "overrides": [
+      {
+        "files": [
+          "**/*.ts"
+        ],
+        "rules": {
+          "@typescript-eslint/no-explicit-any": "error",
+          "@typescript-eslint/ban-ts-comment": [
+            "error",
+            {
+              "ts-expect-error": true,
+              "ts-ignore": true,
+              "ts-check": true,
+              "ts-nocheck": true
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
